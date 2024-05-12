@@ -8,4 +8,5 @@ This project covers the fundamentals of pytest, a robust testing framework for P
 1. Functional tests
 2. Class-based tests
 3. fixtures 
-4. con tests (global access)
+4. Mark
+5. Parametrize
